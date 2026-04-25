@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-new file
-=======
 file new from switch branch 
->>>>>>> newswitchbranc
+new file .com
