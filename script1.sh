@@ -15,3 +15,4 @@ under score
 # Add s3 bucket
 # n
 # new file 
+# new window
